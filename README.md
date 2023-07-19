@@ -1,11 +1,10 @@
-# Full Stack Music with Next.js 13.4 App Router: React, Tailwind, Supabase, PostgreSQL, Seerbit
+# Full Stack Music with Next.js 13.4 App Router: React, Tailwind, Supabase, PostgreSQL, Seerbit Payment System
 
 This is a repository for a Full Stack Spotify Clone with Next.js 13.4 App Router: React, Tailwind, Supabase, PostgreSQL, Seerbit
 
 Key Features:
 
 - Song upload
-- Stripe integration
 - Tailwind design for sleek UI
 - Tailwind animations and transition effects
 - Full responsiveness for all devices
@@ -43,9 +42,9 @@ npm i
 
 ```js
 NEXT_PUBLIC_SUPABASE_URL =
-  NEXT_PUBLIC_SUPABASE_ANON_KEY =
-  SUPABASE_SERVICE_ROLE_KEY =
-    NEXT_PUBLIC_SEERBIT_API_KEY;
+NEXT_PUBLIC_SUPABASE_ANON_KEY =
+SUPABASE_SERVICE_ROLE_KEY =
+NEXT_PUBLIC_SEERBIT_API_KEY=
 ```
 
 ### Add SQL Tables
